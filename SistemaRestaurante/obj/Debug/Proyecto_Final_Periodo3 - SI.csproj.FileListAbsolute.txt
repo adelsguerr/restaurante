@@ -1,0 +1,77 @@
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\AddUser.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Admin.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Eat.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Exit.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Menu.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\NoteBook.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Order.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\search.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\StatusBar.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Table.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\ToolBar.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\User.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Waiter.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\imgs\Wrench.png
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.exe.config
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.exe.manifest
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.application
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.exe
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.pdb
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.Configuración.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.form1.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.Properties.Resources.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaAgregarMenu.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaEditarMenu.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaLogueo.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaMenu.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.Orden.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasOrdenes.ventanaOrden.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasUsuario.agregarUsuario.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasUsuario.ventanaEditarUsuario.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasUsuario.ventanaUsuario.resources
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3 - SI.csproj.GenerateResource.cache
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3 - SI.csproj.CoreCompileInputs.cache
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.exe.manifest
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.application
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.exe
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.pdb
+C:\Users\adels\OneDrive\Escritorio\POSIBLES\Proyecto_Final_Periodo3_000012\Proyecto_Final_Periodo3\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3 - SI.csprojAssemblyReference.cache
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\AddUser.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Admin.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Eat.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Exit.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Menu.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\NoteBook.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Order.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\search.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\StatusBar.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Table.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\ToolBar.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\User.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Waiter.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\imgs\Wrench.png
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.exe.config
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.exe
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.pdb
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3 - SI.csprojAssemblyReference.cache
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.Properties.Resources.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaAgregarMenu.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaEditarMenu.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaLogueo.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.Orden.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasOrdenes.ventanaOrden.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasUsuario.agregarUsuario.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasUsuario.ventanaEditarUsuario.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanasUsuario.ventanaUsuario.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3 - SI.csproj.GenerateResource.cache
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3 - SI.csproj.CoreCompileInputs.cache
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.exe
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.pdb
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.formPrincipal.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.Configuracion.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.ventanas.ventanaMenu.resources
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.exe.manifest
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\bin\Debug\Proyecto_Final_Periodo3.application
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.TrustInfo.xml
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.exe.manifest
+C:\MyProjects\GitHub\C#\ProyectoFinalSI\Proyecto_Final_Periodo3\obj\Debug\Proyecto_Final_Periodo3.application
