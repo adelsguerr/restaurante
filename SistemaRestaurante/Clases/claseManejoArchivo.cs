@@ -23,14 +23,7 @@ namespace Proyecto_Final_Periodo3.Clases
                 fs.Close();
             }
 
-            List<claseUsuarios> listaUsuarios = new List<claseUsuarios>();
-            if (!(File.Exists("archivoUsuarios.dat")))
-            {
-                BinaryFormatter formater = new BinaryFormatter();
-                FileStream fs = new FileStream("archivoUsuarios.dat", FileMode.Create, FileAccess.Write);
-                formater.Serialize(fs, listaUsuarios);
-                fs.Close();
-            }
+            
         }
 
         public List<claseMenu> cargarMenu()
@@ -67,38 +60,8 @@ namespace Proyecto_Final_Periodo3.Clases
             }
         }
 
-        public List<claseUsuarios> cargarUsuarios()
-        {
-            List<claseUsuarios> listaUsuarios = new List<claseUsuarios>();
-            if (File.Exists("archivoUsuarios.dat"))
-            {
-                BinaryFormatter formater = new BinaryFormatter();
-                FileStream fs = new FileStream("archivoUsuarios.dat", FileMode.Open, FileAccess.Read);
-                listaUsuarios = (List<claseUsuarios>)formater.Deserialize(fs);
-                fs.Close();
-            }
-            else
-            {
-                MessageBox.Show("Error al leer el archivo.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            return listaUsuarios;
-        }
-
-        public void guardarUsuarios(List<claseUsuarios> lista)
-        {
-            if (File.Exists("archivoUsuarios.dat"))
-            {
-                File.Delete("archivoUsuarios.dat");
-                BinaryFormatter formater = new BinaryFormatter();
-                FileStream fs = new FileStream("archivoUsuarios.dat", FileMode.Create, FileAccess.Write);
-                formater.Serialize(fs, lista);
-                fs.Close();
-            }
-            else
-            {
-                MessageBox.Show("Error al guardar archivo.", "ERROR", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-        }
+        
+        
 
         public List<claseOrden> cargarOrden(int numeroMesa)
         {

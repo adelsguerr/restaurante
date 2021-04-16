@@ -90,12 +90,6 @@
     <Compile Include="Clases\claseOrden.cs" />
     <Compile Include="Clases\claseUsuarios.cs" />
     <Compile Include="Comandas.cs" />
-    <Compile Include="Configuracion.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Configuracion.Designer.cs">
-      <DependentUpon>Configuracion.cs</DependentUpon>
-    </Compile>
     <Compile Include="formPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -116,12 +110,6 @@
     <Compile Include="ventanas\ventanaEditarMenu.Designer.cs">
       <DependentUpon>ventanaEditarMenu.cs</DependentUpon>
     </Compile>
-    <Compile Include="ventanas\ventanaLogueo.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ventanas\ventanaLogueo.Designer.cs">
-      <DependentUpon>ventanaLogueo.cs</DependentUpon>
-    </Compile>
     <Compile Include="ventanas\ventanaMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -140,27 +128,6 @@
     <Compile Include="ventanas\ventanasOrdenes\ventanaOrden.designer.cs">
       <DependentUpon>ventanaOrden.cs</DependentUpon>
     </Compile>
-    <Compile Include="ventanas\ventanasUsuario\agregarUsuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ventanas\ventanasUsuario\agregarUsuario.Designer.cs">
-      <DependentUpon>agregarUsuario.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ventanas\ventanasUsuario\ventanaEditarUsuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ventanas\ventanasUsuario\ventanaEditarUsuario.Designer.cs">
-      <DependentUpon>ventanaEditarUsuario.cs</DependentUpon>
-    </Compile>
-    <Compile Include="ventanas\ventanasUsuario\ventanaUsuario.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ventanas\ventanasUsuario\ventanaUsuario.Designer.cs">
-      <DependentUpon>ventanaUsuario.cs</DependentUpon>
-    </Compile>
-    <EmbeddedResource Include="Configuracion.resx">
-      <DependentUpon>Configuracion.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="formPrincipal.resx">
       <DependentUpon>formPrincipal.cs</DependentUpon>
     </EmbeddedResource>
@@ -180,9 +147,6 @@
     <EmbeddedResource Include="ventanas\ventanaEditarMenu.resx">
       <DependentUpon>ventanaEditarMenu.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="ventanas\ventanaLogueo.resx">
-      <DependentUpon>ventanaLogueo.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="ventanas\ventanaMenu.resx">
       <DependentUpon>ventanaMenu.cs</DependentUpon>
     </EmbeddedResource>
@@ -191,15 +155,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ventanas\ventanasOrdenes\ventanaOrden.resx">
       <DependentUpon>ventanaOrden.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ventanas\ventanasUsuario\agregarUsuario.resx">
-      <DependentUpon>agregarUsuario.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ventanas\ventanasUsuario\ventanaEditarUsuario.resx">
-      <DependentUpon>ventanaEditarUsuario.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ventanas\ventanasUsuario\ventanaUsuario.resx">
-      <DependentUpon>ventanaUsuario.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\app.manifest" />
     <None Include="Properties\Settings.settings">
