@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB66ED4C-93DC-475A-8FC5-EBE4E45814E0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_Final_Periodo3</RootNamespace>
+    <AssemblyName>Proyecto_Final_Periodo3</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\adels\OneDrive\Escritorio\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>03308647093951DF8FAD811E26F0A9258FAB7B1F</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Proyecto_Final_Periodo3_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <ApplicationIcon>logo2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\claseMenu.cs" />
+    <Compile Include="Clases\claseManejoArchivo.cs" />
+    <Compile Include="Clases\claseMesa.cs" />
+    <Compile Include="Clases\claseOrden.cs" />
+    <Compile Include="Clases\claseUsuarios.cs" />
+    <Compile Include="Comandas.cs" />
+    <Compile Include="Configuracion.cs" />
+    <Compile Include="Configuracion.Designer.cs">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="formPrincipal.cs" />
+    <Compile Include="formPrincipal.Designer.cs">
+      <DependentUpon>formPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ventanas\ventanaAgregarMenu.cs" />
+    <Compile Include="ventanas\ventanaAgregarMenu.Designer.cs">
+      <DependentUpon>ventanaAgregarMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanaEditarMenu.cs" />
+    <Compile Include="ventanas\ventanaEditarMenu.Designer.cs">
+      <DependentUpon>ventanaEditarMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanaLogueo.cs" />
+    <Compile Include="ventanas\ventanaLogueo.Designer.cs">
+      <DependentUpon>ventanaLogueo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanaMenu.cs" />
+    <Compile Include="ventanas\ventanaMenu.Designer.cs">
+      <DependentUpon>ventanaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanasOrdenes\Orden.cs" />
+    <Compile Include="ventanas\ventanasOrdenes\Orden.designer.cs">
+      <DependentUpon>Orden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanasOrdenes\ventanaOrden.cs" />
+    <Compile Include="ventanas\ventanasOrdenes\ventanaOrden.designer.cs">
+      <DependentUpon>ventanaOrden.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanasUsuario\agregarUsuario.cs" />
+    <Compile Include="ventanas\ventanasUsuario\agregarUsuario.Designer.cs">
+      <DependentUpon>agregarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanasUsuario\ventanaEditarUsuario.cs" />
+    <Compile Include="ventanas\ventanasUsuario\ventanaEditarUsuario.Designer.cs">
+      <DependentUpon>ventanaEditarUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ventanas\ventanasUsuario\ventanaUsuario.cs" />
+    <Compile Include="ventanas\ventanasUsuario\ventanaUsuario.Designer.cs">
+      <DependentUpon>ventanaUsuario.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Configuracion.resx">
+      <DependentUpon>Configuracion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="formPrincipal.resx">
+      <DependentUpon>formPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ventanas\ventanaAgregarMenu.resx">
+      <DependentUpon>ventanaAgregarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanaEditarMenu.resx">
+      <DependentUpon>ventanaEditarMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanaLogueo.resx">
+      <DependentUpon>ventanaLogueo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanaMenu.resx">
+      <DependentUpon>ventanaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanasOrdenes\Orden.resx">
+      <DependentUpon>Orden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanasOrdenes\ventanaOrden.resx">
+      <DependentUpon>ventanaOrden.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanasUsuario\agregarUsuario.resx">
+      <DependentUpon>agregarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanasUsuario\ventanaEditarUsuario.resx">
+      <DependentUpon>ventanaEditarUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ventanas\ventanasUsuario\ventanaUsuario.resx">
+      <DependentUpon>ventanaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="imgs\Add-New.png" />
+    <Content Include="imgs\AddUser.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Admin.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Cancel.png" />
+    <None Include="imgs\logo.png" />
+    <None Include="imgs\logo2.ico" />
+    <Content Include="logo2.ico" />
+    <None Include="imgs\chngUser.png" />
+    <Content Include="imgs\Eat.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\edit.png" />
+    <Content Include="imgs\Exit.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Menu.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\NoteBook.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\OccupiedTable.png" />
+    <Content Include="imgs\ok.png" />
+    <Content Include="imgs\Order.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Save.png" />
+    <Content Include="imgs\search.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Selection.png" />
+    <Content Include="imgs\StatusBar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Table.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\ToolBar.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\User.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Waiter.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="imgs\Wrench.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
