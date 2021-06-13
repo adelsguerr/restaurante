@@ -13,8 +13,8 @@ namespace Proyecto_Final_Periodo3.ventanas
 {
     public partial class ventanaMenu : Form
     {
-        Clases.claseManejoArchivo archivoMenu = new Clases.claseManejoArchivo();
-        List<Clases.claseMenu> listaMenu = new List<Clases.claseMenu>();
+        claseManejoArchivo archivoMenu = new claseManejoArchivo();
+        List<claseMenu> listaMenu = new List<claseMenu>();
 
         internal List<claseMenu> ListaMenu { get => listaMenu; set => listaMenu = value; }
 
